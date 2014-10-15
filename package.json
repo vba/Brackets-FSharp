@@ -1,0 +1,25 @@
+{
+    "name": "Brackets-FSharp",
+    "version": "0.1.0",
+    "description": "Initial F# support in brackets editor",
+    "main": "main.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vba/Brackets-FSharp.git"
+    },
+    "keywords": [
+        "brackets"
+    ],
+    "author": "Victor Bartel",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vba/Brackets-FSharp/issues"
+    },
+    "homepage": "https://github.com/vba/Brackets-FSharp",
+    "engines": {
+        "brackets": ">=0.21.0"
+    }
+}
